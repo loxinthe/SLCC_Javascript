@@ -66,6 +66,6 @@
 
 
 
-//Create a function to check two given numbers and return true if one of the number is 50 or if their sum is 50.
+//Create a function to check two given numbers and return true if one of the numbers is 50 or if their sum is 50.
 
 //Code Here
